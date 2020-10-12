@@ -15,12 +15,12 @@
 \newcommand{\jgr}{    {\it J. Geophys. Res.}}
 \newcommand{\jgra}{   {\it J. Geophys. Res. A: Space Phys.}}
 \newcommand{\mnras}{  {\it Mon. Not. Roy. Astron. Soc.}}
-\newcommand{\nat}{ {\it Nature}}
-\newcommand{\prsla}{  {\it Proc. R. Soc. London, Ser. A}}
+\newcommand{\nat}{    {\it Nature}}
 \newcommand{\pp}{     {\it Phys. Plasma}}
+\newcommand{\prsla}{  {\it Proc. R. Soc. London, Ser. A}}
 \newcommand{\ptrsla}  {\it Philos. Trans. R. Soc. London, Ser. A}}
 \newcommand{\rs}{     {\it Radio Sci.}}
 \newcommand{\saisa}{  {\it Astr. Soc. P.]}
 \newcommand{\sci}{    {\it Science}}
 \newcommand{\solphys}{{\it Sol. Phys.}}
-\newcommand{\taspec}{    {\it Astr. Soc. P.}}
+\newcommand{\taspec}{ {\it Astr. Soc. P.}}
