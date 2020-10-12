@@ -2,29 +2,29 @@
 Repo for the master_bib file for your research. 
 
 # Journal and Abbreviations
-| Abbrv | Name | Command |
-| ----- | ---- | ------- |
-| Adv. Space Res. | Advances in Space Research | \adv |
-| Astron. Nachr. | Astronomische Nachrichten | \astn | 
-| Astr. Soc. P. | 4th Hinode Science Meeting: Unsolved Problems and Recent Insights | \4hsm |
-| Astr. Soc. P. | Subsurface and Atmospheric Influences on Solar Activity | \saisa |
-| Astr. Soc. P. | Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations | \asp |
-| Astron. Astrophys. | Astronomy and Astrophysics | \aap |
-| Astrophys. J.	| Astrophysical Journal | \apj |
-| Astrophys. J. Lett.	| Astrophysical Journal Letters | \apjl |
-| Astrophys. J. Suppl. Ser. | Astrophysical Journal Supplement Series | \apjs |
-| Aust. J. Phys. | Australian Journal of Physics | \ausjp |
-| ESA Sp. Publ. | ESA Special Publications | \esasp | 
-| Geophys. Astrophys. Fluid Dyn. | Geophysical and Astrophysical Fluid Dynamics | \gafd |
-| Geophys. Res. Lett. | Geophysical Research Letters | \grl |
-| IAU Symp. | Infrared Solar Physics | \iauisp | 
-| J. Comput. Phys. | Journal of Computational Physics | \jcp |
-| J. Geophys. Res. | Journal of Geophysical Research | \jgr |
-| J. Geophys. Res. A: Space Phys. | Journal of Geophysical Research, A: Space Physics | \jgra | 
-| Mon. Not. R. Astron. Soc. | Monthly Notices of the Royal Astronomical Society | \mnras |
-| Philos. Trans. R. Soc. London, Ser. A | Philosophical Transactions of the Royal Society of London, Series A: Mathematical, Physical and Engineering Sciences | \ptrsla |
-| Phys. Plasma | Physics of Plasmas | \pp | 
-| Proc. R. Soc. London, Ser. A	| Proceedings of the Royal Society of London Series A | \prsla |
-| Radio Sci. | Radio Science | \rs |
+| Name | Abbrv | Command |
+| ---- | ----- | ------- |
+| 4th Hinode Science Meeting: Unsolved Problems and Recent Insights | Astr. Soc. P. | \4hsm |
+| Advances in Space Research | Adv. Space Res. | \adv |
+| Astronomische Nachrichten | Astron. Nachr. | \astn | 
+| Astronomy and Astrophysics | Astron. Astrophys. | \aap |
+| Astrophysical Journal | Astrophys. J. | \apj |
+| Astrophysical Journal Letters | Astrophys. J. Lett. | \apjl |
+| Astrophysical Journal Supplement Series | Astrophys. J. Suppl. Ser. | \apjs |
+| Australian Journal of Physics | Aust. J. Phys. | \ausjp |
+| ESA Special Publications | ESA Sp. Publ. | \esasp | 
+| Geophysical and Astrophysical Fluid Dynamics | Geophys. Astrophys. Fluid Dyn. | \gafd |
+| Geophysical Research Letters | Geophys. Res. Lett. | \grl |
+| Infrared Solar Physics | IAU Symp. | \iauisp | 
+| Journal of Computational Physics | J. Comput. Phys. | \jcp |
+| Journal of Geophysical Research | J. Geophys. Res. | \jgr |
+| Journal of Geophysical Research, A: Space Physics | J. Geophys. Res. A: Space Phys. | \jgra | 
+| Monthly Notices of the Royal Astronomical Society | Mon. Not. R. Astron. Soc. | \mnras |
+| Philosophical Transactions of the Royal Society of London, Series A: Mathematical, Physical and Engineering Sciences | Philos. Trans. R. Soc. London, Ser. A | \ptrsla |
+| Physics of Plasmas | Phys. Plasma | \pp | 
+| Proceedings of the Royal Society of London Series A | Proc. R. Soc. London, Ser. A | \prsla |
+| Radio Science | Radio Sci. | \rs |
 | Science | Science | \sci |
-| Sol. Phys. | Solar Physics | \solphys | 
+| Solar Physics | Sol. Phys. | \solphys | 
+| Subsurface and Atmospheric Influences on Solar Activity | Astr. Soc. P. | \saisa |
+| Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations | Astr. Soc. P. | \asp |
