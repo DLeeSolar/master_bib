@@ -7,3 +7,4 @@ Repo for the master_bib file for your research.
 | Astron. Astrophys. | Astronomy and Astrophysics | \aap |
 | Astrophys. J. Lett.	| Astrophysical Journal Letters | \apjl |
 | J. Comput. Phys. | Journal of Computational Physics | \jcp |
+| Sol. Phys. | Solar Physics | \solphys | 
