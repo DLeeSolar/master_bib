@@ -16,6 +16,7 @@
 \newcommand{\gafd}{   {\it Geophys. Astrophys. Fluid Dyn.}}
 \newcommand{\gca}{    {\it Geochimica et Cosmochimica Acta}}
 \newcommand{\grl}{    {\it Geophys. Res. Lett.}}
+\newcommand{\iauisp}{ {\it IAU Symp.}}
 \newcommand{\ijga}{   {\it Int. J. Geomag. Aeron.}}
 \newcommand{\jastp}{  {\it J. Atmos. Solar Terr. Phys.}}
 \newcommand{\jgr}{    {\it J. Geophys. Res.}}

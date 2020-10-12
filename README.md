@@ -15,6 +15,7 @@ Repo for the master_bib file for your research.
 | ESA Sp. Publ. | ESA Special Publications | \esasp | 
 | Geophys. Astrophys. Fluid Dyn. | Geophysical and Astrophysical Fluid Dynamics | \gafd |
 | Geophys. Res. Lett. | Geophysical Research Letters | \grl |
+| IAU Symp. | Infrared Solar Physics | \iauisp | 
 | J. Comput. Phys. | Journal of Computational Physics | \jcp |
 | Mon. Not. R. Astron. Soc. | Monthly Notices of the Royal Astronomical Society | \mnras |
 | Proc. R. Soc. London, Ser. A	| Proceedings of the Royal Society of London Series A | \prsla |
