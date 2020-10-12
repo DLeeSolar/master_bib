@@ -7,6 +7,7 @@ Repo for the master_bib file for your research.
 | Adv. Space Res. | Advances in Space Research | \adv |
 | Astr. Soc. P. | Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations | \asp |
 | Astron. Astrophys. | Astronomy and Astrophysics | \aap |
+| Astrophys. J.	| Astrophysical Journal | \apj |
 | Astrophys. J. Lett.	| Astrophysical Journal Letters | \apjl |
 | Geophys. Astrophys. Fluid Dyn. | Geophysical and Astrophysical Fluid Dynamics | \gafd |
 | J. Comput. Phys. | Journal of Computational Physics | \jcp |
