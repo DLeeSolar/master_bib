@@ -5,6 +5,7 @@ Repo for the master_bib file for your research.
 | Abbrv | Name | Command |
 | ----- | ---- | ------- |
 | Adv. Space Res. | Advances in Space Research | \adv |
+| Astron. Nachr. | Astronomische Nachrichten | \astn | 
 | Astr. Soc. P. | 4th Hinode Science Meeting: Unsolved Problems and Recent Insights | \4hsm |
 | Astr. Soc. P. | Subsurface and Atmospheric Influences on Solar Activity | \saisa |
 | Astr. Soc. P. | Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations | \asp |
