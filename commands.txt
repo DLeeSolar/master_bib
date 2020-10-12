@@ -28,6 +28,7 @@
 \newcommand{\pasa}{   {\it Pub. Astron. Soc. Australia}}
 \newcommand{\pre}{    {\it Phys. Rev. E}}
 \newcommand{\pp}{     {\it Phys. Plasma}}
+\newcommand{\ptrsla}  {\it Philos. Trans. R. Soc. London, Ser. A}}
 \newcommand{\ssr}{    {\it Space Sci. Rev.}}
 \newcommand{\memsai}{ {\it Memorie della Società Astronomia Italiana}}
 \newcommand{\prd}{    {\it Phys. Rev. D}}

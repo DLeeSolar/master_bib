@@ -20,6 +20,7 @@ Repo for the master_bib file for your research.
 | J. Comput. Phys. | Journal of Computational Physics | \jcp |
 | J. Geophys. Res. | Journal of Geophysical Research | \jgr |
 | Mon. Not. R. Astron. Soc. | Monthly Notices of the Royal Astronomical Society | \mnras |
+| Philos. Trans. R. Soc. London, Ser. A | Philosophical Transactions of the Royal Society of London, Series A: Mathematical, Physical and Engineering Sciences | \ptrsla |
 | Phys. Plasma | Physics of Plasmas | \pp | 
 | Proc. R. Soc. London, Ser. A	| Proceedings of the Royal Society of London Series A | \prsla |
 | Radio Sci. | Radio Science | \rs |
