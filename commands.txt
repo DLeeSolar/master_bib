@@ -26,6 +26,7 @@
 \newcommand{\pasj}{   {\it Pub. Astron. Soc. Japan}}
 \newcommand{\pasa}{   {\it Pub. Astron. Soc. Australia}}
 \newcommand{\pre}{    {\it Phys. Rev. E}}
+\newcommand{\pp}{     {\it Phys. Plasma}}
 \newcommand{\ssr}{    {\it Space Sci. Rev.}}
 \newcommand{\memsai}{ {\it Memorie della Società Astronomia Italiana}}
 \newcommand{\prd}{    {\it Phys. Rev. D}}

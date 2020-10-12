@@ -18,6 +18,7 @@ Repo for the master_bib file for your research.
 | IAU Symp. | Infrared Solar Physics | \iauisp | 
 | J. Comput. Phys. | Journal of Computational Physics | \jcp |
 | Mon. Not. R. Astron. Soc. | Monthly Notices of the Royal Astronomical Society | \mnras |
+| Phys. Plasma | Physics of Plasmas | \pp | 
 | Proc. R. Soc. London, Ser. A	| Proceedings of the Royal Society of London Series A | \prsla |
 | Radio Sci. | Radio Science | \rs |
 | Science | Science | \sci |
