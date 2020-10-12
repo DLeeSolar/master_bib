@@ -2,39 +2,20 @@
 \newcommand{\4hsm}{   {\it Astr. Soc. P.}}
 \newcommand{\adv}{    {\it Adv. Space Res.}}
 \newcommand{\aap}{    {\it Astron. Astrophys.}}
-\newcommand{\aapr}{   {\it Astron. Astrophys. Rev.}}
-\newcommand{\aaps}{   {\it Astron. Astrophys. Suppl.}}
-\newcommand{\ag}{     {\it Ann. Geophys.}}
-\newcommand{\aj}{     {\it Astron. J.}}
 \newcommand{\apj}{    {\it Astrophys. J.}}
 \newcommand{\apjl}{   {\it Astrophys. J. Lett.}}
 \newcommand{\apjs}{   {\it Astrophys. J. Suppl. Ser.}}
-\newcommand{\apss}{   {\it Astrophys. Space Sci.}}
 \newcommand{\astn}{   {\it Astron. Nachr.}}
-\newcommand{\astrol}{ {\it Astronomy Letters}}
 \newcommand{\ausjp}{  {\it Aust. J. Phys.}}
-\newcommand{\cjaa}{   {\it Chin. J. Astron. Astrophys.}}
-\newcommand{\epjp}{   {\it European Physical Journal Plus}}
 \newcommand{\esasp}{  {\it ESA Sp. Publ.}}
-\newcommand{\fcp}{    {\it Fundamentals of Cosmic Physic}}
 \newcommand{\gafd}{   {\it Geophys. Astrophys. Fluid Dyn.}}
 \newcommand{\grl}{    {\it Geophys. Res. Lett.}}
 \newcommand{\iauisp}{ {\it IAU Symp.}}
-\newcommand{\ijga}{   {\it Int. J. Geomag. Aeron.}}
-\newcommand{\jastp}{  {\it J. Atmos. Solar Terr. Phys.}}
 \newcommand{\jcp}{    {\it J. Comput. Phys.}}
 \newcommand{\jgr}{    {\it J. Geophys. Res.}}
 \newcommand{\jgra}{   {\it J. Geophys. Res. A: Space Phys.}}
 \newcommand{\mnras}{  {\it Mon. Not. Roy. Astron. Soc.}}
-\newcommand{\na}{     {\it New Astron.}}
-\newcommand{\nat}{    {\it Nature}}
-\newcommand{\nature}{ {\it Nature}}
-\newcommand{\NPA}{    {\it Nuclear Physics A}}
-\newcommand{\pasp}{   {\it Pub. Astron. Soc. Pac.}}
-\newcommand{\pasj}{   {\it Pub. Astron. Soc. Japan}}
-\newcommand{\pasa}{   {\it Pub. Astron. Soc. Australia}}
-\newcommand{\prd}{    {\it Phys. Rev. D}}
-\newcommand{\pre}{    {\it Phys. Rev. E}}
+\newcommand{\nat}{ {\it Nature}}
 \newcommand{\prsla}{  {\it Proc. R. Soc. London, Ser. A}}
 \newcommand{\pp}{     {\it Phys. Plasma}}
 \newcommand{\ptrsla}  {\it Philos. Trans. R. Soc. London, Ser. A}}
@@ -42,5 +23,4 @@
 \newcommand{\saisa}{  {\it Astr. Soc. P.]}
 \newcommand{\sci}{    {\it Science}}
 \newcommand{\solphys}{{\it Sol. Phys.}}
-\newcommand{\ssr}{    {\it Space Sci. Rev.}}
 \newcommand{\asp}{    {\it Astr. Soc. P.}}
