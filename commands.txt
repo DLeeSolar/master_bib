@@ -39,3 +39,4 @@
 \newcommand{\jcp}{     {\it J. Comput. Phys.}}
 \newcommand{\sci}{     {\it Science}}
 \newcommand{\gafd}{     {\it Geophys. Astrophys. Fluid Dyn.}}
+\newcommand{\asp}{     {\it Astr. Soc. P.}}
