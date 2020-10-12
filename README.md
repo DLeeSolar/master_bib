@@ -4,6 +4,7 @@ Repo for the master_bib file for your research.
 # Journal and Abbreviations
 | Abbrv | Name | Command |
 | ----- | ---- | ------- |
+| Adv. Space Res. | Advances in Space Research | \adv |
 | Astr. Soc. P. | Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations | \asp |
 | Astron. Astrophys. | Astronomy and Astrophysics | \aap |
 | Astrophys. J. Lett.	| Astrophysical Journal Letters | \apjl |
