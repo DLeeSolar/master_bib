@@ -27,4 +27,4 @@ Repo for the master_bib file for your research.
 | Science | Science | \sci |
 | Solar Physics | Sol. Phys. | \solphys | 
 | Subsurface and Atmospheric Influences on Solar Activity | Astr. Soc. P. | \saisa |
-| Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations | Astr. Soc. P. | \asp |
+| Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations | Astr. Soc. P. | \taspec |

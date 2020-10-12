@@ -23,4 +23,4 @@
 \newcommand{\saisa}{  {\it Astr. Soc. P.]}
 \newcommand{\sci}{    {\it Science}}
 \newcommand{\solphys}{{\it Sol. Phys.}}
-\newcommand{\asp}{    {\it Astr. Soc. P.}}
+\newcommand{\taspec}{    {\it Astr. Soc. P.}}
