@@ -43,3 +43,4 @@
 \newcommand{\prsla}{     {\it Proc. R. Soc. London, Ser. A}}
 \newcommand{\rs}{     {\it Radio Sci.}}
 \newcommand{\saisa}{     {\it Astr. Soc. P.]}
+\newcommand{\esasp}{     {\it ESA Sp. Publ.}}
