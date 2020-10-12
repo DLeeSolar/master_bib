@@ -40,3 +40,4 @@
 \newcommand{\sci}{     {\it Science}}
 \newcommand{\gafd}{     {\it Geophys. Astrophys. Fluid Dyn.}}
 \newcommand{\asp}{     {\it Astr. Soc. P.}}
+\newcommand{\prsla}{     {\it Proc. R. Soc. London, Ser. A}}

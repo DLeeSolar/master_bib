@@ -9,5 +9,6 @@ Repo for the master_bib file for your research.
 | Astrophys. J. Lett.	| Astrophysical Journal Letters | \apjl |
 | Geophys. Astrophys. Fluid Dyn. | Geophysical and Astrophysical Fluid Dynamics | \gafd |
 | J. Comput. Phys. | Journal of Computational Physics | \jcp |
+| Proc. R. Soc. London, Ser. A	| Proceedings of the Royal Society of London Series A | \prsla |
 | Science | Science | \sci |
 | Sol. Phys. | Solar Physics | \solphys | 
