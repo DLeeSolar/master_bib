@@ -20,6 +20,7 @@ Repo for the master_bib file for your research.
 | Journal of Geophysical Research | J. Geophys. Res. | \jgr |
 | Journal of Geophysical Research, A: Space Physics | J. Geophys. Res. A: Space Phys. | \jgra | 
 | Monthly Notices of the Royal Astronomical Society | Mon. Not. R. Astron. Soc. | \mnras |
+| Nature | Nature | \nat |
 | Philosophical Transactions of the Royal Society of London, Series A: Mathematical, Physical and Engineering Sciences | Philos. Trans. R. Soc. London, Ser. A | \ptrsla |
 | Physics of Plasmas | Phys. Plasma | \pp | 
 | Proceedings of the Royal Society of London Series A | Proc. R. Soc. London, Ser. A | \prsla |
