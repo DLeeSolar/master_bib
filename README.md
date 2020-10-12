@@ -18,6 +18,7 @@ Repo for the master_bib file for your research.
 | Geophys. Res. Lett. | Geophysical Research Letters | \grl |
 | IAU Symp. | Infrared Solar Physics | \iauisp | 
 | J. Comput. Phys. | Journal of Computational Physics | \jcp |
+| J. Geophys. Res. | Journal of Geophysical Research | \jgr |
 | Mon. Not. R. Astron. Soc. | Monthly Notices of the Royal Astronomical Society | \mnras |
 | Phys. Plasma | Physics of Plasmas | \pp | 
 | Proc. R. Soc. London, Ser. A	| Proceedings of the Royal Society of London Series A | \prsla |
