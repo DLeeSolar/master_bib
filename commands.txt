@@ -41,3 +41,4 @@
 \newcommand{\gafd}{     {\it Geophys. Astrophys. Fluid Dyn.}}
 \newcommand{\asp}{     {\it Astr. Soc. P.}}
 \newcommand{\prsla}{     {\it Proc. R. Soc. London, Ser. A}}
+\newcommand{\rs}{     {\it Radio Sci.}}

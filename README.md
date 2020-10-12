@@ -11,5 +11,6 @@ Repo for the master_bib file for your research.
 | Geophys. Astrophys. Fluid Dyn. | Geophysical and Astrophysical Fluid Dynamics | \gafd |
 | J. Comput. Phys. | Journal of Computational Physics | \jcp |
 | Proc. R. Soc. London, Ser. A	| Proceedings of the Royal Society of London Series A | \prsla |
+| Radio Sci. | Radio Science | \rs |
 | Science | Science | \sci |
 | Sol. Phys. | Solar Physics | \solphys | 
