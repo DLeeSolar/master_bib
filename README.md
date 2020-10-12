@@ -11,6 +11,7 @@ Repo for the master_bib file for your research.
 | Astrophys. J.	| Astrophysical Journal | \apj |
 | Astrophys. J. Lett.	| Astrophysical Journal Letters | \apjl |
 | Astrophys. J. Suppl. Ser. | Astrophysical Journal Supplement Series | \apjs |
+| Aust. J. Phys. | Australian Journal of Physics | \ausjp |
 | ESA Sp. Publ. | ESA Special Publications | \esasp | 
 | Geophys. Astrophys. Fluid Dyn. | Geophysical and Astrophysical Fluid Dynamics | \gafd |
 | Geophys. Res. Lett. | Geophysical Research Letters | \grl |
