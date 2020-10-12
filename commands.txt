@@ -36,3 +36,4 @@
 \newcommand{\NPA}{     {\it Nuclear Physics A}}
 \newcommand{\nature}{     {\it Nature}}
 \newcommand{\solphys}{     {\it Sol. Phys.}}
+\newcommand{\jcp}{     {\it J. Comput. Phys.}}
