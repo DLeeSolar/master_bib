@@ -1,4 +1,5 @@
 %define some journal codes             
+\newcommand{\4hsm}{   {\it Astr. Soc. P.}}
 \newcommand{\araa}{   {\it Ann. Rev. Astron, Astrophys.}}%Fix this
 \newcommand{\adv}{    {\it Adv. Space Res.}}
 \newcommand{\annG}{   {\it Annales Geophysicae}}
