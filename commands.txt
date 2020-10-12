@@ -22,6 +22,7 @@
 \newcommand{\ijga}{   {\it Int. J. Geomag. Aeron.}}
 \newcommand{\jastp}{  {\it J. Atmos. Solar Terr. Phys.}}
 \newcommand{\jgr}{    {\it J. Geophys. Res.}}
+\newcommand{\jgra}{    \it J. Geophys. Res. A: Space Phys.}}
 \newcommand{\mnras}{  {\it Mon. Not. Roy. Astron. Soc.}}
 \newcommand{\nat}{    {\it Nature}}
 \newcommand{\pasp}{   {\it Pub. Astron. Soc. Pac.}}
