@@ -37,3 +37,4 @@
 \newcommand{\nature}{     {\it Nature}}
 \newcommand{\solphys}{     {\it Sol. Phys.}}
 \newcommand{\jcp}{     {\it J. Comput. Phys.}}
+\newcommand{\sci}{     { \it Science}}
