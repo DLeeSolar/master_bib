@@ -18,9 +18,9 @@
 \newcommand{\nat}{    {\it Nature}}
 \newcommand{\pp}{     {\it Phys. Plasma}}
 \newcommand{\prsla}{  {\it Proc. R. Soc. London, Ser. A}}
-\newcommand{\ptrsla}  {\it Philos. Trans. R. Soc. London, Ser. A}}
+\newcommand{\ptrsla}{ {\it Philos. Trans. R. Soc. London, Ser. A}}
 \newcommand{\rs}{     {\it Radio Sci.}}
-\newcommand{\saisa}{  {\it Astr. Soc. P.]}
+\newcommand{\saisa}{  {\it Astr. Soc. P.}}
 \newcommand{\sci}{    {\it Science}}
 \newcommand{\solphys}{{\it Sol. Phys.}}
 \newcommand{\taspec}{ {\it Astr. Soc. P.}}
