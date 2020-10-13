@@ -4,7 +4,7 @@ Repo for the master_bib file for your research.
 # Journal and Abbreviations
 | Name | Abbrv | Command |
 | ---- | ----- | ------- |
-| 4th Hinode Science Meeting: Unsolved Problems and Recent Insights | Astr. Soc. P. | \4hsm |
+| 4th Hinode Science Meeting: Unsolved Problems and Recent Insights | Astr. Soc. P. | \fhsm |
 | Advances in Space Research | Adv. Space Res. | \adv |
 | Astronomische Nachrichten | Astron. Nachr. | \astn | 
 | Astronomy and Astrophysics | Astron. Astrophys. | \aap |

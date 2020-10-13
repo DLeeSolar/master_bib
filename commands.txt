@@ -1,5 +1,4 @@
 %define some journal codes             
-\newcommand{\4hsm}{   {\it Astr. Soc. P.}}
 \newcommand{\adv}{    {\it Adv. Space Res.}}
 \newcommand{\aap}{    {\it Astron. Astrophys.}}
 \newcommand{\apj}{    {\it Astrophys. J.}}
@@ -8,6 +7,7 @@
 \newcommand{\astn}{   {\it Astron. Nachr.}}
 \newcommand{\ausjp}{  {\it Aust. J. Phys.}}
 \newcommand{\esasp}{  {\it ESA Sp. Publ.}}
+\newcommand{\fhsm}{   {\it Astr. Soc. P.}}
 \newcommand{\gafd}{   {\it Geophys. Astrophys. Fluid Dyn.}}
 \newcommand{\grl}{    {\it Geophys. Res. Lett.}}
 \newcommand{\iauisp}{ {\it IAU Symp.}}
