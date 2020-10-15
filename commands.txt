@@ -7,7 +7,7 @@
 \newcommand{\astn}{   {\it Astron. Nachr.}}
 \newcommand{\ausjp}{  {\it Aust. J. Phys.}}
 \newcommand{\esasp}{  {\it ESA Sp. Publ.}}
-\newcommand{\fhsm}{   {\it Astr. Soc. P.}}
+\newcommand{\fhsm}{   {\it 4th Hinode Science Meeting: Unsolved Problems and Recent Insights}}
 \newcommand{\gafd}{   {\it Geophys. Astrophys. Fluid Dyn.}}
 \newcommand{\grl}{    {\it Geophys. Res. Lett.}}
 \newcommand{\iauisp}{ {\it IAU Symp.}}
@@ -20,7 +20,7 @@
 \newcommand{\prsla}{  {\it Proc. R. Soc. London, Ser. A}}
 \newcommand{\ptrsla}{ {\it Philos. Trans. R. Soc. London, Ser. A}}
 \newcommand{\rs}{     {\it Radio Sci.}}
-\newcommand{\saisa}{  {\it Astr. Soc. P.}}
+\newcommand{\saisa}{  {\it Subsurface and Atmospheric Influences on Solar Activity}}
 \newcommand{\sci}{    {\it Science}}
 \newcommand{\solphys}{{\it Sol. Phys.}}
-\newcommand{\taspec}{ {\it Astr. Soc. P.}}
+\newcommand{\taspec}{ {\it Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations}}
