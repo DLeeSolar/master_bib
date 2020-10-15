@@ -4,7 +4,7 @@ Repo for the master_bib file for your research.
 # Journal and Abbreviations
 | Name | Abbrv | Command |
 | ---- | ----- | ------- |
-| 4th Hinode Science Meeting: Unsolved Problems and Recent Insights | Astr. Soc. P. | \fhsm |
+| 4th Hinode Science Meeting: Unsolved Problems and Recent Insights | N/A | \fhsm |
 | Advances in Space Research | Adv. Space Res. | \adv |
 | Astronomische Nachrichten | Astron. Nachr. | \astn | 
 | Astronomy and Astrophysics | Astron. Astrophys. | \aap |
@@ -27,5 +27,5 @@ Repo for the master_bib file for your research.
 | Radio Science | Radio Sci. | \rs |
 | Science | Science | \sci |
 | Solar Physics | Sol. Phys. | \solphys | 
-| Subsurface and Atmospheric Influences on Solar Activity | Astr. Soc. P. | \saisa |
-| Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations | Astr. Soc. P. | \taspec |
+| Subsurface and Atmospheric Influences on Solar Activity | N/A | \saisa |
+| Third Advances in Solar Physics Euroconference: Magnetic Fields and Oscillations | N/A | \taspec |
